@@ -1,0 +1,108 @@
+@CHARSET "ISO-8859-1";
+
+  .container{
+	width:700px;
+	height:600px;
+	text-align:center;
+	background-color: rgb(20, 15, 91);
+	border-radius:4px;
+	margin:0 auto;
+	margin-top:20px;
+	padding-left:10px;
+	}
+.container1{
+	width:570px;
+	height:380px;
+	text-align:center;
+	background-color: rgb(20, 15, 91);
+	border-radius:4px;
+	margin:0 auto;
+	margin-top:20px;
+	padding-left:10px;
+	}
+h1
+{
+	color:white;
+	font-size:35px;
+}
+INPUT[type="text"],INPUT[type="password"],INPUT[type="number"]{
+	height:45px;
+	width:350px;
+	font-size:18px;
+	border:none;
+	border-radius:5px;
+	background-color:#fff;
+	padding-left:40px;
+	}
+.name input{
+	height:45px;
+	width:150px;
+	font-size:18px;
+	border:none;
+	border-radius:5px;
+	background-color:#fff;
+	padding-left:40px;
+	}
+.pera{
+	color:#fff;
+	text-align:right;
+	}
+.btn-signup
+{
+color:white;
+background:rgb(18, 233, 76);
+padding-top:5px;
+padding-right:5px;
+padding-bottom:5px;
+padding-left:5px;
+border-radius:4px;
+border:none;
+border-bottom:4px solid #27aE60;
+cursor:pointer;
+height:40px;
+width:100px;
+margin-left: 150px;
+margin-top: 20px;
+}
+.btn-clear{
+	color:white;
+background:rgb(18, 233, 76);
+padding-top:5px;
+padding-right:5px;
+padding-bottom:5px;
+padding-left:5px;
+border-radius:4px;
+border:none;
+border-bottom:4px solid #27aE60;
+cursor:pointer;
+height:40px;
+width:100px;
+margin-left:150px;
+margin-top: 20px;
+	}
+.hobbies{
+	color:#fff;
+	}
+.gender{
+	color:#fff;
+	}
+
+.profession{
+	color:#999999;
+	font-size:20px;
+	padding-left:40px;
+	height:40px;
+	width:390px;
+	}
+.options{
+	color:#000000;
+	font-size:20px;
+	}
+.textarea1{
+	font-size:20px;
+	width:349px;
+	max-width:349px;
+	height:90px;
+	max-height:95px;
+	padding-left:40px;
+	}
